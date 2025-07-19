@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Migrations (optional – useful in dev only)
+**/migrations/
+!**/migrations/__init__.py
+
+# Virtual environment
+venv/
+.env
+~
+
+# Database files
+*.sqlite3
+*.db
+*.sqlite
+db.sqlite3
+
+# Media and static files
+/media/
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
